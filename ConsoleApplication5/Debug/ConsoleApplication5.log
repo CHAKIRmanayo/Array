@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lr3.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lr3.1.cpp
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\array\consoleapplication5\lr3.1.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\array\consoleapplication5\lr3.1.cpp(36): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note:  см. объявление "getch"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\array\consoleapplication5\lr3.1.cpp(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+  ConsoleApplication5.vcxproj -> C:\Users\maksi\OneDrive\Документы\Visual Studio 2012\Projects\Шишкин\Array\Debug\Array.exe
